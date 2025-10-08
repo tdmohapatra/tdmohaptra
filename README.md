@@ -67,9 +67,9 @@ Recent highlights:
 
 <div align="center">
 
-[![STAR MULTIMEDIA](https://github-readme-stats.vercel.app/api/pin/?username=tdmohapatra&repo=STAR_MULTIMEDIA&theme=tokyonight)](https://github.com/tdmohapatra/STAR_MULTIMEDIA)
+[![STAR MULTIMEDIA](https://github-readme-stats.vercel.app/api/pin/?username=tdmohapatra&repo=MULTIMEDIA_DETECTION_CODE_GIT&theme=tokyonight)](https://github.com/tdmohapatra/STAR_MULTIMEDIA)
 [![TDM IP Tracker](https://github-readme-stats.vercel.app/api/pin/?username=tdmohapatra&repo=TDM_IP_Tracker&theme=tokyonight)](https://github.com/tdmohapatra/TDM_IP_Tracker)
-[![AI ChatBot Assistant](https://github-readme-stats.vercel.app/api/pin/?username=tdmohapatra&repo=AI_ChatBot_Assistant&theme=tokyonight)](https://github.com/tdmohapatra/AI_ChatBot_Assistant)
+/*[![AI ChatBot Assistant](https://github-readme-stats.vercel.app/api/pin/?username=tdmohapatra&repo=AI_ChatBot_Assistant&theme=tokyonight)](https://github.com/tdmohapatra/AI_ChatBot_Assistant)*/
 
 </div>
 
@@ -111,11 +111,9 @@ Recent highlights:
 
 <p align="center">
   <!-- Example placeholders: replace URLs with your raw image URLs -->
-  <img src="https://raw.githubusercontent.com/tdmohapatra/STAR_MULTIMEDIA/main/docs/previews/star-multimedia-demo.gif" alt="STAR MULTIMEDIA demo" width="640" style="border-radius:8px; box-shadow: 0 8px 30px rgba(0,0,0,0.4);" />
+  <img src="https://raw.githubusercontent.com/tdmohapatra/MULTIMEDIA_DETECTION_CODE_GIT/main/docs/previews/star-multimedia-demo.gif" alt="STAR MULTIMEDIA demo" width="640" style="border-radius:8px; box-shadow: 0 8px 30px rgba(0,0,0,0.4);" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tdmohapatra/TDM_IP_Tracker/main/Resources/UI_Preview.png" alt="TDM IP Tracker preview" width="640" style="border-radius:8px; box-shadow: 0 8px 30px rgba(0,0,0,0.4);" />
 </p>
 
 ---
