@@ -1,6 +1,6 @@
-🚀 Tarakanta Dasmohapatra - Senior .NET & AI Developer
-<div align="center"><!-- Animated Matrix Background --><div style="position: relative; width: 100%; height: 200px; background: linear-gradient(135deg, #0D1117 0%, #1a1f2e 100%); border-radius: 20px; overflow: hidden; margin-bottom: 30px;"> <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle at 20% 80%, rgba(0, 255, 255, 0.1) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(255, 0, 255, 0.1) 0%, transparent 50%), radial-gradient(circle at 40% 40%, rgba(0, 255, 0, 0.05) 0%, transparent 50%);"> </div> <div class="matrix-rain"></div> <div style="position: relative; z-index: 2; padding: 40px; text-align: center;"> <h1 style="color: #00FFFF; font-size: 3em; margin: 0; text-shadow: 0 0 20px rgba(0, 255, 255, 0.7);">TDM</h1> <p style="color: #FFFFFF; margin: 10px 0 0 0; font-size: 1.2em;">Innovating at the Intersection of AI and Infrastructure</p> </div> </div><!-- Main Container with Glass Morphism --><div style="background: rgba(13, 17, 23, 0.8); backdrop-filter: blur(20px); border: 1px solid rgba(0, 255, 255, 0.2); border-radius: 25px; padding: 40px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0, 255, 255, 0.1);"><!-- Avatar with Advanced Animation --><div style="position: relative; display: inline-block; margin-bottom: 30px;"> <div style="position: relative; display: inline-block;"> <img src="https://github.com/tdmohapatra.png" width="200" style="border-radius:50%; border: 3px solid #00FFFF; box-shadow: 0 0 30px #00FFFF, 0 0 60px #FF00FF, 0 0 90px #00FF00, inset 0 0 20px rgba(0, 255, 255, 0.3); animation: float 6s ease-in-out infinite, glow 2s ease-in-out infinite alternate;" alt="Tarakanta Dasmohapatra" />
-text
+
+<div align="center"><!-- Animated Matrix Background --><div style="position: relative; width: 100%; height: 200px; background: linear-gradient(135deg, #0D1117 0%, #1a1f2e 100%); border-radius: 20px; overflow: hidden; margin-bottom: 30px;"> <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle at 20% 80%, rgba(0, 255, 255, 0.1) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(255, 0, 255, 0.1) 0%, transparent 50%), radial-gradient(circle at 40% 40%, rgba(0, 255, 0, 0.05) 0%, transparent 50%);"> </div> <div class="matrix-rain"></div> <div style="position: relative; z-index: 2; padding: 40px; text-align: center;"> <h1 style="color: #00FFFF; font-size: 3em; margin: 0; text-shadow: 0 0 20px rgba(0, 255, 255, 0.7);"> Tarakanta Dasmohapatra</h1> <p style="color: #FFFFFF; margin: 10px 0 0 0; font-size: 1.2em;">Innovating at the Intersection of AI and Infrastructure</p> </div> </div><!-- Main Container with Glass Morphism --><div style="background: rgba(13, 17, 23, 0.8); backdrop-filter: blur(20px); border: 1px solid rgba(0, 255, 255, 0.2); border-radius: 25px; padding: 40px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0, 255, 255, 0.1);"><!-- Avatar with Advanced Animation --><div style="position: relative; display: inline-block; margin-bottom: 30px;"> <div style="position: relative; display: inline-block;"> <img src="https://github.com/tdmohapatra.png" width="200" style="border-radius:50%; border: 3px solid #00FFFF; box-shadow: 0 0 30px #00FFFF, 0 0 60px #FF00FF, 0 0 90px #00FF00, inset 0 0 20px rgba(0, 255, 255, 0.3); animation: float 6s ease-in-out infinite, glow 2s ease-in-out infinite alternate;" alt="Tarakanta Dasmohapatra" />
+
 <!-- Animated Rings -->
 <div style="position: absolute; top: -15px; left: -15px; right: -15px; bottom: -15px; border: 2px solid #FF00FF; border-radius: 50%; animation: rotate 4s linear infinite;"></div>
 <div style="position: absolute; top: -25px; left: -25px; right: -25px; bottom: -25px; border: 1px solid #00FF00; border-radius: 50%; animation: rotate 6s linear infinite reverse;"></div>
@@ -69,4 +69,52 @@ text
 </div>
 
 
-<div align="center"><!-- Animated Profile Views --><div class="profile-views" style="margin: 40px 0; position: relative;"> <img src="https://komarev.com/ghpvc/?username=tdmohapatra&style=for-the-badge&color=00FFFF&label=PROFILE+VISITORS" alt="Profile views" style="border-radius: 25px; border: 1px solid #00FFFF; padding: 15px 25px; background: rgba(0, 255, 255, 0.1);" /> <div class="view-pulse"></div> </div>
+<div align="center">
+
+<!-- Profile Views Counter -->
+<div style="margin: 40px 0; position: relative;">
+  <img src="https://komarev.com/ghpvc/?username=tdmohapatra&style=for-the-badge&color=00FFFF&label=PROFILE+VISITORS" 
+       alt="Profile views" 
+       style="border-radius: 25px; border: 1px solid #00FFFF; padding: 15px 25px; background: rgba(0, 255, 255, 0.1);" />
+</div>
+
+<!-- Footer -->
+<div style="color: #888; font-size: 1em; margin-top: 50px; padding: 30px; border-top: 1px solid rgba(0, 255, 255, 0.2); position: relative;">
+  
+  <p style="margin: 0 0 15px 0;">
+    <strong style="background: linear-gradient(45deg, #00FFFF, #FF00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.2em;">
+      ✨ Innovation Driven by Passion ✨
+    </strong>
+  </p>
+  
+  <p style="margin: 0; font-size: 0.9em;">
+    Last updated: {{date}} • Built with ❤️ using Markdown & GitHub
+  </p>
+  
+  <!-- Simple animated dots -->
+  <div style="margin-top: 20px;">
+    <span style="color: #00FFFF; animation: blink 1.4s infinite;">●</span>
+    <span style="color: #FF00FF; animation: blink 1.4s infinite 0.2s;">●</span>
+    <span style="color: #00FF00; animation: blink 1.4s infinite 0.4s;">●</span>
+  </div>
+</div>
+
+</div>
+
+<style>
+  /* Simple animations that work on GitHub */
+  @keyframes blink {
+    0%, 100% { opacity: 0.2; }
+    50% { opacity: 1; }
+  }
+  
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-5px); }
+  }
+  
+  @keyframes glow {
+    0% { text-shadow: 0 0 5px currentColor; }
+    100% { text-shadow: 0 0 20px currentColor, 0 0 30px currentColor; }
+  }
+</style>
